@@ -7,7 +7,7 @@ class Valida {
     */
   }
 
-  set setCpf(recebeCpf) {
+  set valor(recebeCpf) {
     this._cpf = recebeCpf;
   }
 
